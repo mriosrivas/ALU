@@ -14,3 +14,8 @@ Salidas:
     ng
     
 Probar sus resultados con el banco de pruebas que se adjunta.
+
+Referencia:
+
+http://nand2tetris.org/chapters/chapter%2002.pdf
+página 37
