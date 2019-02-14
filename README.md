@@ -17,5 +17,5 @@ Probar sus resultados con el banco de pruebas que se adjunta.
 
 Referencia:
 
-http://nand2tetris.org/chapters/chapter%2002.pdf
+https://docs.wixstatic.com/ugd/44046b_f0eaab042ba042dcb58f3e08b46bb4d7.pdf
 página 37
